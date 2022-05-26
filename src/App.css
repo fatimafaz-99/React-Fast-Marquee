@@ -12,7 +12,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.titlename{
+  font-size: 25px;
+  margin-top: 50px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,6 +25,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.maruqeeElements img{
+  height:150px;
+  width: 230px;
+  margin-left: 30px;
 }
 
 .App-link {
